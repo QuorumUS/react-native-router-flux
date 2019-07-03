@@ -20,7 +20,9 @@
     "opencollective": "^1.0.3",
     "path-to-regexp": "^2.1.0",
     "prop-types": "^15.6.0",
-    "react-navigation": "1.5.8"
+    "react-navigation": "1.5.8",
+    "mobx": "^4.1.1",
+    "mobx-react": "^5.0.0"   
   },
   "devDependencies": {
     "@types/react": "^16.0.20",
